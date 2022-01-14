@@ -10,6 +10,7 @@ https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
 https://www.cyberick.com/post/how-to-find-new-more-domains-of-a-company-recon-stuff
 https://0x00sec.org/t/what-is-your-go-to-dns-enumeration-methodology-discussion/20169
 Login-Panals Finder: https://0x00sec.org/t/recon-part-1-0-finding-login-panels/204
+https://github.com/dirsoooo/Recon
 
 
 Information-Disclosure:
@@ -20,6 +21,9 @@ https://obheda12.medium.com/gitdorker-a-new-tool-for-manual-github-dorking-and-e
 Subdomain Takeover:
 https://cystack.net/research/subdomain-takeover
 https://cystack.net/research/subdomain-takeover-chapter-two-azure-services
+
+Race-Condition:
+https://0xdekster.medium.com/second-order-race-condition-b38aaf774783
 
 Cache-Poisoning:
 https://cystack.net/research/web-cache-poisoning
@@ -58,7 +62,9 @@ https://rajanagori.medium.com/a-long-story-of-xxe-vulnerability-6a9a33276602
 https://medium.com/@onehackman/exploiting-xml-external-entity-xxe-injection-b0e3eac388f9
 
 Misc:
-# Vulnerabilities Overview: https://haox.hapot.in/website-security-and-bug-bounty-hunting
+# Vulnerabilities Overview: 
+- https://haox.hapot.in/website-security-and-bug-bounty-hunting
+- https://un4gi.medium.com/vulnerabilities-and-you-a-beginners-guide-to-bug-bounty-hunting-6d3a417e1daa
 # AWS-bucket-upload-policies-signed-urls: https://labs.detectify.com/2018/08/02/bypassing-exploiting-bucket-upload-policies-signed-urls/
 # Hackerone Reports: https://github.com/reddelexc/hackerone-reports
 # Google cache on (secondary): https://support.google.com/websearch/answer/1687222?hl=en
