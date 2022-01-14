@@ -10,6 +10,7 @@ https://kitploit.com/search/label/XSS?m=1
 
 #Subdomain finder:
 https://github.com/gfek/Lepus (subdomain finder + port scans)
+https://takeover.cyberint.com/
 
 #information disclosure:
 https://github.com/techgaun/github-dorks
@@ -17,6 +18,8 @@ https://github.com/tillson/git-hound
 https://github.com/trufflesecurity/truffleHog
 
 #Misc:
+Orgnization employees listing: https://bearsofficialsstore.com
+Awesome Open Source tools: https://awesomeopensource.com/projects/bugbounty?categoryPage=41
 Url scanner: https://0x00sec.org/t/a-pretty-good-url-scanner/3959
 Google Dorking: https://0x00sec.org/t/google-dorking-resources/183
 Chrome extension: Honey (coupon checkdr)
