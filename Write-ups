@@ -1,2 +1,16 @@
+Bugbounty cheatsheet:
+https://github.com/riramar/Web-Attack-Cheat-Sheet
+https://github.com/tillson/git-hound
+https://github.com/
+
+Recon:
+https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
+
+
 Automate cache poisoning findindg:
 https://mikekitckchan.medium.com/automate-your-hunting-cache-poison-3b43a0c7dad2
+
+IDOR:
+https://blog.yeswehack.com/category/yeswerhackers/pimpmyburp/
+- https://blog.yeswehack.com/yeswerhackers/pimpmyburp-pwnfox-autorize-find-idor
+- https://blog.yeswehack.com/yeswerhackers/pimpmyburp-auth-analyzer-test-horizontal-vertical-privileges-escalation/
