@@ -32,6 +32,7 @@ https://www.intruder.io/research/practical-http-header-smuggling
 
 Authorization issue:
 https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0
+https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2
 
 XSS:
 https://0x00sec.org/t/xss-on-cookie-pop-up/19580
@@ -44,6 +45,9 @@ https://mikekitckchan.medium.com/automate-your-hunting-cache-poison-3b43a0c7dad2
 SQL-Injection:
 https://0xmahoudjo0.medium.com/how-i-found-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f
 
+SSRF:
+https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d
+
 IDOR:
 https://blog.yeswehack.com/category/yeswerhackers/pimpmyburp/
 - https://blog.yeswehack.com/yeswerhackers/pimpmyburp-pwnfox-autorize-find-idor
@@ -51,8 +55,10 @@ https://blog.yeswehack.com/category/yeswerhackers/pimpmyburp/
 
 XXE:
 https://rajanagori.medium.com/a-long-story-of-xxe-vulnerability-6a9a33276602
+https://medium.com/@onehackman/exploiting-xml-external-entity-xxe-injection-b0e3eac388f9
 
 Misc:
+# Vulnerabilities Overview: https://haox.hapot.in/website-security-and-bug-bounty-hunting
 # AWS-bucket-upload-policies-signed-urls: https://labs.detectify.com/2018/08/02/bypassing-exploiting-bucket-upload-policies-signed-urls/
 # Hackerone Reports: https://github.com/reddelexc/hackerone-reports
 # Google cache on (secondary): https://support.google.com/websearch/answer/1687222?hl=en
