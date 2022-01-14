@@ -17,6 +17,19 @@ https://greedybucks.medium.com/finding-confidential-documents-using-google-dorks
 https://0x00sec.org/t/using-search-engines-for-fun-and-bounties/23832/2
 https://obheda12.medium.com/gitdorker-a-new-tool-for-manual-github-dorking-and-easy-bug-bounty-wins-92a0a0a6b8d5
 
+Subdomain Takeover:
+https://cystack.net/research/subdomain-takeover
+https://cystack.net/research/subdomain-takeover-chapter-two-azure-services
+
+Cache-Poisoning:
+https://cystack.net/research/web-cache-poisoning
+
+SSTI:
+https://cystack.net/research/client-side-template-injection-kipalog-com
+
+HTTP Header Smuggling:
+https://www.intruder.io/research/practical-http-header-smuggling
+
 Authorization issue:
 https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0
 
@@ -43,3 +56,4 @@ Misc:
 # AWS-bucket-upload-policies-signed-urls: https://labs.detectify.com/2018/08/02/bypassing-exploiting-bucket-upload-policies-signed-urls/
 # Hackerone Reports: https://github.com/reddelexc/hackerone-reports
 # Google cache on (secondary): https://support.google.com/websearch/answer/1687222?hl=en
+# https://reconshell.com/facebook-bugbounty-writeups
