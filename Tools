@@ -1,0 +1,12 @@
+XSS:
+https://github.com/theinfosecguy/QuickXSS (xss automation)
+https://github.com/s0mdv3/XSStrick
+https://github.com/KathanP19/Gxss
+
+Subdomain finder:
+https://github.com/gfek/Lepus (subdomain finder + port scans)
+
+information disclosure:
+https://github.com/techgaun/github-dorks
+https://github.com/tillson/git-hound
+https://github.com/trufflesecurity/truffleHog
