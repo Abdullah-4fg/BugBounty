@@ -4,7 +4,9 @@ https://github.com/tillson/git-hound
 https://github.com/
 
 Recon:
+https://orwaatyat.medium.com/my-methodology-in-recon-and-find-bugs-my-methodology-in-hunting-using-phone-ccc9fe06dd2d
 https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
+https://greedybucks.medium.com/finding-confidential-documents-using-google-dorks-b09dcdd761c8
 
 
 Automate cache poisoning findindg:
@@ -14,3 +16,7 @@ IDOR:
 https://blog.yeswehack.com/category/yeswerhackers/pimpmyburp/
 - https://blog.yeswehack.com/yeswerhackers/pimpmyburp-pwnfox-autorize-find-idor
 - https://blog.yeswehack.com/yeswerhackers/pimpmyburp-auth-analyzer-test-horizontal-vertical-privileges-escalation/
+
+Misc:
+# AWS-bucket-upload-policies-signed-urls:
+https://labs.detectify.com/2018/08/02/bypassing-exploiting-bucket-upload-policies-signed-urls/
