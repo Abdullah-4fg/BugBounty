@@ -1,14 +1,28 @@
 Bugbounty cheatsheet:
 https://github.com/riramar/Web-Attack-Cheat-Sheet
-https://github.com/tillson/git-hound
-https://github.com/
+https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html
+https://www.excis3.be/bugbounty-checklist/21/
+
 
 Recon:
 https://orwaatyat.medium.com/my-methodology-in-recon-and-find-bugs-my-methodology-in-hunting-using-phone-ccc9fe06dd2d
 https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
+https://www.cyberick.com/post/how-to-find-new-more-domains-of-a-company-recon-stuff
 https://greedybucks.medium.com/finding-confidential-documents-using-google-dorks-b09dcdd761c8
+https://0x00sec.org/t/using-search-engines-for-fun-and-bounties/23832/2
+https://0x00sec.org/t/what-is-your-go-to-dns-enumeration-methodology-discussion/20169
+Login-Panals Finder: https://0x00sec.org/t/recon-part-1-0-finding-login-panels/204
 
 
+
+Authorization issue:
+https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0
+
+XSS:
+https://0x00sec.org/t/xss-on-cookie-pop-up/19580
+
+CSRF:
+https://vbharad.medium.com/2-fa-bypass-via-csrf-attack-8f2f6a6e3871
 Automate cache poisoning findindg:
 https://mikekitckchan.medium.com/automate-your-hunting-cache-poison-3b43a0c7dad2
 
@@ -17,6 +31,10 @@ https://blog.yeswehack.com/category/yeswerhackers/pimpmyburp/
 - https://blog.yeswehack.com/yeswerhackers/pimpmyburp-pwnfox-autorize-find-idor
 - https://blog.yeswehack.com/yeswerhackers/pimpmyburp-auth-analyzer-test-horizontal-vertical-privileges-escalation/
 
+XXE:
+https://rajanagori.medium.com/a-long-story-of-xxe-vulnerability-6a9a33276602
+
 Misc:
-# AWS-bucket-upload-policies-signed-urls:
-https://labs.detectify.com/2018/08/02/bypassing-exploiting-bucket-upload-policies-signed-urls/
+# AWS-bucket-upload-policies-signed-urls: https://labs.detectify.com/2018/08/02/bypassing-exploiting-bucket-upload-policies-signed-urls/
+# Hackerone Reports: https://github.com/reddelexc/hackerone-reports
+# Google cache on (secondary): https://support.google.com/websearch/answer/1687222?hl=en
