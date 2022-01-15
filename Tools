@@ -8,14 +8,18 @@ https://github.com/KathanP19/Gxss
 https://hakin9.org/xssmap-detect-xss-vulnerability-in-web-applications/
 https://kitploit.com/search/label/XSS?m=1
 
-#Subdomain finder:
+#Subdomain Takeover:
 https://github.com/gfek/Lepus (subdomain finder + port scans)
 https://takeover.cyberint.com/
+https://github.com/LukaSikic/subzy
 
 #information disclosure:
 https://github.com/techgaun/github-dorks
 https://github.com/tillson/git-hound
 https://github.com/trufflesecurity/truffleHog
+
+SSRF:
+https://github.com/assetnote/blind-ssrf-chains
 
 #Misc:
 Orgnization employees listing: https://bearsofficialsstore.com
