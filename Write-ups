@@ -3,19 +3,29 @@ https://github.com/riramar/Web-Attack-Cheat-Sheet
 https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html
 https://www.excis3.be/bugbounty-checklist/21/
 https://www.bugbountyhunter.com/zseano (zseano methadology)
-
+https://attacker-codeninja.github.io/2021-06-27-Awesome-BB-Bookmarks
+https://attacker-codeninja.github.io/2021-06-27-Mind-Maps/
 
 Recon:
+https://attacker-codeninja.github.io/2021-07-03-Learn-with-darklotuskdb-Recon
+https://attacker-codeninja.github.io/2021-06-27-Learn-with-R0X4R-Recon-Automation/
 https://infosecwriteups.com/recon-everything-48aafbb8987
 https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d
 https://orwaatyat.medium.com/my-methodology-in-recon-and-find-bugs-my-methodology-in-hunting-using-phone-ccc9fe06dd2d
 https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
 https://www.cyberick.com/post/how-to-find-new-more-domains-of-a-company-recon-stuff
 https://0x00sec.org/t/what-is-your-go-to-dns-enumeration-methodology-discussion/20169
-Login-Panals Finder: https://0x00sec.org/t/recon-part-1-0-finding-login-panels/204
+Login-Panals Finder: 
+- https://0x00sec.org/t/recon-part-1-0-finding-login-panels/204
+- https://www.hacktube5.tech/bug-bounty-tips-and-tricks/how-to-find-admin-panel-bug-bounty/
 https://github.com/dirsoooo/Recon
 https://infosecsanyam.medium.com/web-application-security-bug-bounty-methadology-reconnaissance-vulnerabilities-reporting-635073cddcf2
 https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5
+https://0xpatrik.com
+https://cobalt.io/blog/scope-based-recon-smart-recon-tactics
+
+Bruteforce Attacks:
+https://forum.22xploitercrew.net/d/1-wordpress-brute-force-fast-login
 
 File Upload attacks:
 https://blog.yeswehack.com/yeswerhackers/exploitation/file-upload-attacks-part-1/
@@ -27,6 +37,7 @@ https://0x00sec.org/t/using-search-engines-for-fun-and-bounties/23832/2
 https://obheda12.medium.com/gitdorker-a-new-tool-for-manual-github-dorking-and-easy-bug-bounty-wins-92a0a0a6b8d5
 
 Subdomain Takeover:
+https://0xpatrik.com
 https://cystack.net/research/subdomain-takeover
 https://cystack.net/research/subdomain-takeover-chapter-two-azure-services
 
@@ -35,6 +46,9 @@ https://0xdekster.medium.com/second-order-race-condition-b38aaf774783
 
 Cache-Poisoning:
 https://cystack.net/research/web-cache-poisoning
+
+Host-Header Injection:
+https://attacker-codeninja.github.io/2021-09-09-portswigger-notes-on-host-header-attack/
 
 SSTI:
 https://cystack.net/research/client-side-template-injection-kipalog-com
@@ -47,6 +61,7 @@ https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe
 https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2
 https://vasuyadav0786.medium.com/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e
 https://infosecwriteups.com/my-fourth-account-takeover-through-password-reset-28a36dfebaf
+https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183
 
 XSS:
 https://0x00sec.org/t/xss-on-cookie-pop-up/19580
@@ -74,9 +89,11 @@ https://medium.com/@onehackman/exploiting-xml-external-entity-xxe-injection-b0e3
 Misc:
 # Vulnerabilities Overview: 
 - https://haox.hapot.in/website-security-and-bug-bounty-hunting
+- https://labs.detectify.com/2021/08/24/hackluke-list-resources-for-beginner-hackers-2021
 - https://un4gi.medium.com/vulnerabilities-and-you-a-beginners-guide-to-bug-bounty-hunting-6d3a417e1daa
 - https://ahmedhalabi.medium.com/my-experience-for-2-years-in-bug-bounty-hunting-b22d03f98ed3
 - https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1
+- https://securib.ee/beelog/essential-bug-bounty-books-for-beginners-and-pros/
 # AWS-bucket-upload-policies-signed-urls: https://labs.detectify.com/2018/08/02/bypassing-exploiting-bucket-upload-policies-signed-urls/
 # Hackerone Reports: https://github.com/reddelexc/hackerone-reports
 # Google cache on (secondary): https://support.google.com/websearch/answer/1687222?hl=en
