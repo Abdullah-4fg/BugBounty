@@ -2,15 +2,20 @@ Bugbounty cheatsheet:
 https://github.com/riramar/Web-Attack-Cheat-Sheet
 https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html
 https://www.excis3.be/bugbounty-checklist/21/
+https://www.bugbountyhunter.com/zseano (zseano methadology)
 
 
 Recon:
+https://infosecwriteups.com/recon-everything-48aafbb8987
+https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d
 https://orwaatyat.medium.com/my-methodology-in-recon-and-find-bugs-my-methodology-in-hunting-using-phone-ccc9fe06dd2d
 https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
 https://www.cyberick.com/post/how-to-find-new-more-domains-of-a-company-recon-stuff
 https://0x00sec.org/t/what-is-your-go-to-dns-enumeration-methodology-discussion/20169
 Login-Panals Finder: https://0x00sec.org/t/recon-part-1-0-finding-login-panels/204
 https://github.com/dirsoooo/Recon
+https://infosecsanyam.medium.com/web-application-security-bug-bounty-methadology-reconnaissance-vulnerabilities-reporting-635073cddcf2
+https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5
 
 
 Information-Disclosure:
@@ -34,9 +39,11 @@ https://cystack.net/research/client-side-template-injection-kipalog-com
 HTTP Header Smuggling:
 https://www.intruder.io/research/practical-http-header-smuggling
 
-Authorization issue:
+Account Takeovers:
 https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0
 https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2
+https://vasuyadav0786.medium.com/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e
+https://infosecwriteups.com/my-fourth-account-takeover-through-password-reset-28a36dfebaf
 
 XSS:
 https://0x00sec.org/t/xss-on-cookie-pop-up/19580
@@ -65,6 +72,8 @@ Misc:
 # Vulnerabilities Overview: 
 - https://haox.hapot.in/website-security-and-bug-bounty-hunting
 - https://un4gi.medium.com/vulnerabilities-and-you-a-beginners-guide-to-bug-bounty-hunting-6d3a417e1daa
+- https://ahmedhalabi.medium.com/my-experience-for-2-years-in-bug-bounty-hunting-b22d03f98ed3
+- https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1
 # AWS-bucket-upload-policies-signed-urls: https://labs.detectify.com/2018/08/02/bypassing-exploiting-bucket-upload-policies-signed-urls/
 # Hackerone Reports: https://github.com/reddelexc/hackerone-reports
 # Google cache on (secondary): https://support.google.com/websearch/answer/1687222?hl=en
