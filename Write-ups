@@ -81,6 +81,7 @@ https://0xmahoudjo0.medium.com/how-i-found-sql-injection-with-ffuf-and-sqlmap-in
 
 SSRF:
 https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
 
 IDOR:
 https://blog.yeswehack.com/category/yeswerhackers/pimpmyburp/
