@@ -48,6 +48,8 @@ https://0xdekster.medium.com/second-order-race-condition-b38aaf774783
 
 Cache-Poisoning:
 https://cystack.net/research/web-cache-poisoning
+https://youst.in/posts/cache-key-normalization-denial-of-service/
+https://youst.in/posts/cache-poisoning-at-scale/
 
 Host-Header Injection:
 https://attacker-codeninja.github.io/2021-09-09-portswigger-notes-on-host-header-attack/
