@@ -120,3 +120,7 @@ Misc:
 #https://www.rumble.run/blog/finding-log4j/#apache
 https://github.com/for-GET/know-your-http-well/blob/master/headers.md
 #setup $GOPATH :https://www.youtube.com/watch?v=wzW5wV9G2Mc&t=485s
+
+setup .bashrc file profile for bug hunting :
+https://github.com/ethicalhackingplayground/Bug-Bounty-Tools/blob/master/.bash_profile
+https://github.com/xElkomy/Workflow-Bug-Bounty/blob/master/.bash_profile
