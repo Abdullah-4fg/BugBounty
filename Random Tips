@@ -73,3 +73,11 @@ Some other parameter
 "roleId":1             ->  "roleId":0
 "isOwner":false ->  "isOwner":true
 -------------------------------------------------------------------------------------------------------------------------------------------
+This is how I found a open redirection. 
+Tips:
+1)  Used Gau To Get All The URLS
+2) Used grep =http Filtered Only URLS with Parameter has http
+3) Check these urls manually
+4) Boom!
+cat domain.txt | gau | grep "=http" | tee out.log
+--------------------------------------------------------------------------------------------------------------------------------------------
