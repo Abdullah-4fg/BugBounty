@@ -6,3 +6,12 @@ I have collected 500K active subdomains on my bug bounty target so far. I am wat
 Best VPS to consider : https://contabo.com/en/vps/
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+Dont understand this shit , will try to understand this later ;
+1) Find JavaScript files
+2) ffuf -w js_files.txt -u FUZZ -mr "sourceMappingURL"
+3) Download sourcemap
+4) https://github.com/chbrown/unmap
+5) Browse configs or just grep for API keys/Creds
+
+____________________________________________________________________________________________________________________________
