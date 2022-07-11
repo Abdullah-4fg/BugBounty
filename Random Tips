@@ -35,3 +35,13 @@ You can do some amazing things with Fake Mailer.
 4. Open New Support Tickets for PII
 
 -------------------------------------------------------------------------------------------------------------------
+Access Control/Privacy Violation:
+
+Shodan:
+
+ssl:"target" 401 - (Unauthorised Access).
+ssl:"target" 403 - (Access Forbidden).
+ssl:"target" 404 - (Not Found).
+
+Fuzz Directory/Files on target. You might endup getting some juicy endpoints.
+-------------------------------------------------------------------------------------------------------------
