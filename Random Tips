@@ -85,3 +85,13 @@ Why did I never think of setting up Google dorks as Google alerts!
 
 Such a simple idea, but oh so useful!
 ---------------------------------------------------------------------------------------------------------------------------------------------
+This is how I found 40 open redirection in 2 weeks. Bugcrowd accept open redirect as P4🧵
+
+1. I collected all *,main domains 
+2. Used passive subdomain finding tools to find domains
+3. Used Gau and url crawlers to find logout pages
+4. After collecting logout pages I sent this data to burp suite.
+5. I used a param miner on all logout paths. To find parameter
+
+Param miner found redirect,url,uri, etc params. Tried open redirect payloads manually. And reported 40 open redirects.
+----------------------------------------------------------------------------------------------------------------------------------------------
