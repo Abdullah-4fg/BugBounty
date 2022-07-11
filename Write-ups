@@ -36,6 +36,11 @@ https://lutfumertceylan.com.tr/posts/clickjacking-acc-takeover-drag-drop/
 File Upload attacks:
 https://blog.yeswehack.com/yeswerhackers/exploitation/file-upload-attacks-part-1/
 https://blog.yeswehack.com/yeswerhackers/file-upload-attacks-part-2/
+#Tip:
+        Bypassing filter of file upload in 1 step:✅
+        ▶filename: testing.php/.jpg =>The server can actually
+        writes as testing.php.
+        ▶filename: testing.html%0d%0a.jpg =>  %0d%0a are newline characters it can be saved as testing.html.
 
 Information-Disclosure:
 https://greedybucks.medium.com/finding-confidential-documents-using-google-dorks-b09dcdd761c8
