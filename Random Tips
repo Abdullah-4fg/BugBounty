@@ -55,3 +55,8 @@ domian/admin.zip
 domain/backup.zip
 i found a lot like that and 99% its contain sensitive data 
 -------------------------------------------------------------------------------------------------------------------------------------
+
+Burp Ram problem :
+You can set the max amount of ram that burp can use so it will work better and won't crash (Set Ram value in Task Manager)
+
+-------------------------------------------------------------------------------------------------------------------------------------
