@@ -15,3 +15,14 @@ Dont understand this shit , will try to understand this later ;
 5) Browse configs or just grep for API keys/Creds
 
 ____________________________________________________________________________________________________________________________
+
+What the first thing i check it in program (if the program is fresh)
+
+1- session management bugs
+2- ssl / tls if it not in OOS
+3- waybackurls
+4- default credentials
+5- CSRF leads to account takeover
+6- guess params using Arjun in php | asp | jsp pages
+
+-------------------------------------------------------------------------------------------------------------------------------------------
