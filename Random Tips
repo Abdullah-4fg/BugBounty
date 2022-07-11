@@ -45,3 +45,13 @@ ssl:"target" 404 - (Not Found).
 
 Fuzz Directory/Files on target. You might endup getting some juicy endpoints.
 -------------------------------------------------------------------------------------------------------------
+
+1. Replacing HTTP Methods on API Requests from POST to PATCH or GET can leak sensitive info without Authorization. 
+
+2. Got a pre condition failed on API Request, Don’t send request to repeater, Modify the Userid from Burpsuite Proxy- OPTIONS, GET. 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+domian/admin.zip
+domain/backup.zip
+i found a lot like that and 99% its contain sensitive data 
+-------------------------------------------------------------------------------------------------------------------------------------
