@@ -75,6 +75,7 @@ XSS:
 https://0x00sec.org/t/xss-on-cookie-pop-up/19580
 https://brutelogic.com.br/blog/xss101/
 https://blog.dixitaditya.com/xss-to-read-internal-files
+<img src="xasdasdasd" onerror="document.write('<iframe src=file:///etc/passwd></iframe>')"/>
 
 CSRF:
 https://vbharad.medium.com/2-fa-bypass-via-csrf-attack-8f2f6a6e3871
