@@ -59,6 +59,7 @@ https://cystack.net/research/subdomain-takeover-chapter-two-azure-services
 
 GraphQL :
 https://the-bilal-rizwan.medium.com/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696
+http://ghostlulz.com/api-hacking-graphql/
 
 Race-Condition:
 https://0xdekster.medium.com/second-order-race-condition-b38aaf774783
@@ -70,9 +71,13 @@ https://youst.in/posts/cache-poisoning-at-scale/
 
 Host-Header Injection:
 https://attacker-codeninja.github.io/2021-09-09-portswigger-notes-on-host-header-attack/
+http://ghostlulz.com/host-header-injection/
 
 SSTI:
 https://cystack.net/research/client-side-template-injection-kipalog-com
+
+SQL Injection:
+http://ghostlulz.com/nosql-injection/
 
 HTTP Header Smuggling:
 https://www.intruder.io/research/practical-http-header-smuggling
@@ -128,6 +133,9 @@ https://www.errno.fr/artifactory/Attacking_Artifactory
 HTTP headers explained:
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
 
+CSV Injection:
+http://ghostlulz.com/csv-injection/
+
 
 Misc:
 https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups
@@ -148,6 +156,7 @@ https://twitter.com/Rapid_API/status/1542492387997634560?s=20&t=HrxWOAJEaBhO8RHy
 https://github.com/for-GET/know-your-http-well/blob/master/headers.md
 https://medium.com/@root.n33r4j/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853
 #setup $GOPATH :https://www.youtube.com/watch?v=wzW5wV9G2Mc&t=485s
+http://ghostlulz.com/cypher-injection-neo4j-graph-databases/
 
 setup .bashrc file profile for bug hunting :
 https://github.com/ethicalhackingplayground/Bug-Bounty-Tools/blob/master/.bash_profile
