@@ -97,6 +97,7 @@ https://brutelogic.com.br/blog/xss101/
 https://brutelogic.com.br/blog/xss-via-http-headers/
 https://www.bugcrowd.com/blog/the-ultimate-guide-to-finding-and-escalating-xss-bugs/
 https://blog.dixitaditya.com/xss-to-read-internal-files
+https://securityidiots.com/Web-Pentest/XSS/basics-of-javascript-for-XSS3-final.html
 <img src="xasdasdasd" onerror="document.write('<iframe src=file:///etc/passwd></iframe>')"/>
 
 CSRF:
