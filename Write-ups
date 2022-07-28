@@ -33,6 +33,7 @@ https://forum.22xploitercrew.net/d/1-wordpress-brute-force-fast-login
 
 Github dorking:
 https://orwaatyat.medium.com/
+https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
 
 OAuth attacks:
 https://securityboat.in/oauth-a-feature-to-vulnerability/
@@ -71,6 +72,7 @@ Cache-Poisoning:
 https://cystack.net/research/web-cache-poisoning
 https://youst.in/posts/cache-key-normalization-denial-of-service/
 https://youst.in/posts/cache-poisoning-at-scale/
+https://infosecwriteups.com/cache-poisoning-with-xss-a-peculiar-case-eb5973850814
 
 Host-Header Injection:
 https://attacker-codeninja.github.io/2021-09-09-portswigger-notes-on-host-header-attack/
@@ -119,6 +121,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20
 https://vulp3cula.gitbook.io/hackers-grimoire/exploitation/web-application/ssrf
 https://medium.com/@GeneralEG/escalating-ssrf-to-rce-f28c482eb8b9
 https://blog.neolex.dev/13/
+https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-ssrf-to-compromise-case-study/
 
 IDOR:
 https://blog.yeswehack.com/category/yeswerhackers/pimpmyburp/
