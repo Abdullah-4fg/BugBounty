@@ -76,6 +76,7 @@ https://cystack.net/research/web-cache-poisoning
 https://youst.in/posts/cache-key-normalization-denial-of-service/
 https://youst.in/posts/cache-poisoning-at-scale/
 https://infosecwriteups.com/cache-poisoning-with-xss-a-peculiar-case-eb5973850814
+https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html
 
 Host-Header Injection:
 https://attacker-codeninja.github.io/2021-09-09-portswigger-notes-on-host-header-attack/
