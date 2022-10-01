@@ -8,6 +8,9 @@ https://attacker-codeninja.github.io/2021-06-27-Mind-Maps/
 
 Recon:
 https://attacker-codeninja.github.io/2021-07-03-Learn-with-darklotuskdb-Recon
+https://infosecwriteups.com/guide-to-basic-recon-bug-bounties-recon-728c5242a115
+https://webs3c.com/t/the-beginner-guide-of-reconnaissance/178?u=remonsec
+https://webs3c.com/t/subdomain-enumeration-methodology-discussion/182?u=remonsec
 https://geekflare.com/find-subdomains/
 https://www.boxpiper.com/posts/google-dork-list-web-server-detection
 https://attacker-codeninja.github.io/2021-06-27-Learn-with-R0X4R-Recon-Automation/
@@ -147,6 +150,51 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
 CSV Injection:
 http://ghostlulz.com/csv-injection/
 
+Uncatagorized:
+https://infosecwriteups.com/guide-to-basic-recon-bug-bounties-recon-728c5242a115
+https://infosecwriteups.com/stored-xss-to-account-takeover-going-beyond-document-cookie-970e42362f43
+https://systemweakness.com/ultimate-manual-bug-bounty-recon-guide-f30c900367c8
+https://gowtham-naidu.medium.com/how-i-earned-10-000-within-the-last-7-months-17y-o-edition-f566651cef82
+https://medium.com/techiepedia/what-are-sop-cors-and-ways-to-exploit-it-62a5e02100dc
+https://infosecwriteups.com/stored-xss-to-account-takeover-going-beyond-document-cookie-970e42362f43
+https://themodernhacker.medium.com/how-to-get-started-into-bug-bounty-7c372c9bba41
+https://pallabjyoti218.medium.com/automate-your-recon-with-censys-how-pro-hacker-use-censys-871aeabd517e
+https://medium.com/@rival.rvdt/secstory-how-i-found-multiple-p1-vulnerabilities-without-recon-c9f3a19cad45
+https://labs.detectify.com/2022/08/05/how-to-hack-web-applications-in-2022/
+https://yasshk.medium.com/blind-ssrf-in-url-validator-93cbe7521c68
+https://medium.com/@mamunwhh/email-verification-bypass-a78d29582095
+https://www.bugbountyhunter.com/articles/?on=bugboutyhunter.com_experience
+https://infosecwriteups.com/automating-burp-suite-4-understanding-and-customising-custom-header-from-response-via-burp-macro-214332dda012
+https://infosecwriteups.com/automating-burp-suite-3-creating-macro-to-replace-csrf-token-from-response-body-to-request-param-de37eb54ab5f
+https://justm0rph3u5.medium.com/automating-burp-suite-2-automated-authenticated-login-and-scanning-via-macro-5189c88cc795
+https://infosecwriteups.com/automating-burpsuite-1-capturing-csrf-token-via-macro-ef2f85565f75
+https://bishdotexe.github.io/posts/passive_v_active_reconnaissance
+https://www.securesystems.de/blog/enhancing-subdomain-enumeration-ents-and-noerror/
+https://security.humanativaspa.it/automating-binary-vulnerability-discovery-with-ghidra-and-semgrep/
+https://infosecwriteups.com/automating-xss-using-dalfox-gf-and-waybackurls-bc6de16a5c75
+https://systemweakness.com/burp-suite-intruder-much-more-powerful-than-you-think-ca52c1268e40
+https://medium.com/@nynan/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7
+https://debprasadbanerjee502.medium.com/google-dork-for-instant-bounties-a332764fc3e2
+https://medium.com/@tankSOC/internal-bug-bountys-the-importance-of-timing-f9aee5afa9d8
+https://sagarsajeev.medium.com/browser-extensions-which-have-landed-28ea451d531c
+https://medium.com/@nynan/how-to-actually-use-amass-more-effectively-bug-bounty-59e83900de02
+https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209
+https://systemweakness.com/my-recon-tools-af558692042
+https://rez0.blog/hacking/cybersecurity/2022/08/18/unpredictable-idors.html
+https://clarkvoss.medium.com/finding-hidden-gems-with-nuclei-templates-b3125950a5cd
+https://www.securesystems.de/blog/enhancing-subdomain-enumeration-ents-and-noerror/
+https://lab.wallarm.com/what-are-jwt-injections-and-why-do-you-need-to-know-about-them/
+
+#Automation:
+https://infosecwriteups.com/beginners-guide-vps-setup-for-bug-bounty-recon-automation-6b0ba1e051ef
+https://pentester.land/conference-notes/2018/07/25/bug-bounty-talks-2017-automation-for-bug-hunters.html
+https://gowthams.gitbook.io/bughunter-handbook/automation
+https://infosecwriteups.com/intro-to-bug-bounty-automation-tool-chaining-with-bash-13e11348016f
+https://nuclei.projectdiscovery.io/
+https://clarkvoss.medium.com/finding-hidden-gems-with-nuclei-templates-b3125950a5cd
+https://github.com/projectdiscovery/nuclei-templates
+https://github.com/clarkvoss/Nuclei-Templates
+https://github.com/xm1k3/cent
 
 Misc:
 https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups
